@@ -1,0 +1,18 @@
+﻿  Function.cpp
+  Main.cpp
+D:\Desktop\主体Alpha 0.10.0706show\Setting.h(133,23): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(132,14): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(210,32): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(226,32): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(262,32): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(264,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(276,39): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(342,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(352,14): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(424,23): warning C4305: “参数”: 从“double”到“float”截断
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(424,17): warning C4305: “参数”: 从“double”到“float”截断
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(1054,8): warning C4101: “c”: 未引用的局部变量
+  正在生成代码...
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(127,1): warning C4715: “Crash”: 不是所有的控件路径都返回值
+D:\Desktop\主体Alpha 0.10.0706show\Main.cpp(79,1): warning C4715: “Astar”: 不是所有的控件路径都返回值
+  主体.vcxproj -> D:\Desktop\主体Alpha 0.10.0706show\x64\Debug\主体.exe
